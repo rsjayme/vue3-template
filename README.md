@@ -1,4 +1,4 @@
-# vuemontyhall
+# Vue-Template
 
 ## Project setup
 ```
